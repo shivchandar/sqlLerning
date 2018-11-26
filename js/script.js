@@ -1,1 +1,1 @@
-alert("Hello word!");
+document.getElementById("demo").innerHTML = "Welcome to Javascript";
